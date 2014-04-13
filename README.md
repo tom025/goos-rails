@@ -1,6 +1,6 @@
 [goos-book]: http://www.growing-object-oriented-software.com/
 [Nat Pryce]: http://www.natpryce.com/
-[Stever Freeman]: http://www.higherorderlogic.com/
+[Steve Freeman]: http://www.higherorderlogic.com/
 [goos-ruby]: https://github.com/tom025/goos
 [solid_principles]: http://en.wikipedia.org/wiki/SOLID_(object-oriented_design)
 [jruby]: http://jruby.org/
